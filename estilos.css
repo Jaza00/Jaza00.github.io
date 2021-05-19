@@ -25,12 +25,6 @@ p {
     align-items: center;
 }
 
-h1.title-principal {
-    color: rgb(173, 25, 25);
-    font-size: 30px;
-    margin-top: 10px;
-}
-
 
 /* 
 
@@ -230,6 +224,12 @@ h4 {
     text-transform: uppercase;
     padding: 0 10px;
     letter-spacing: 2px;
+}
+
+h1.title-principal {
+    color: rgb(173, 25, 25);
+    font-size: 30px;
+    margin-top: 10px;
 }
 
 @media all and (max-width: 1120px) {
