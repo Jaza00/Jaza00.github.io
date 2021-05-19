@@ -25,7 +25,7 @@ p {
     align-items: center;
 }
 
-.title-principal {
+h1.title-principal {
     color: rgb(173, 25, 25);
     font-size: 30px;
     margin-top: 10px;
